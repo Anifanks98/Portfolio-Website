@@ -356,8 +356,7 @@ article .icon {
 /* PROJECTS SECTION */
 
 #projects {
-  position: relative; /* Change from absolute to relative */
-  padding-bottom: 4vh;
+  position: absolute;
 }
 
 .article-container > #kerala {
